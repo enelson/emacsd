@@ -1,0 +1,214 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/enelson/src/spingo/spingo/image-service/src/main/scala/com/spingo/" . "image/")
+ ("/Users/enelson/src/spingo/spingo/image-service/src/main/scala/com/" . "spingo/")
+ ("/Users/enelson/src/spingo/spingo/image-service/src/main/scala/" . "com/")
+ ("/Users/enelson/src/spingo/spingo/image-service/src/main/" . "scala/")
+ ("/Users/enelson/src/spingo/spingo/image-service/src/" . "main/")
+ ("/Users/enelson/src/spingo/spingo/image-service/" . "src/")
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/com/spingo/lib/db/" . "schema/")
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/com/spingo/lib/" . "db/")
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/com/spingo/" . "lib/")
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/com/" . "spingo/")
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/" . "com/")
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/" . "scala/")
+ ("/Users/enelson/src/spingo/spingo/database-library/src/" . "main/")
+ ("/Users/enelson/src/spingo/spingo/database-library/" . "src/")
+ ("/Users/enelson/src/spingo/vagrant/salt/states/assets/sql/" . "migrations/")
+ ("/Users/enelson/src/spingo/vagrant/salt/states/assets/" . "sql/")
+ ("/Users/enelson/src/spingo/vagrant/salt/states/" . "assets/")
+ ("/Users/enelson/src/spingo/vagrant/salt/" . "states/")
+ ("/Users/enelson/src/spingo/vagrant/" . "salt/")
+ ("/Users/enelson/src/spingo/modules/op-rabbit/" . "core/")
+ ("/Users/enelson/src/spingo/modules/" . "op-rabbit/")
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/main/scala/com/spingo/" . "leads/")
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/main/scala/com/" . "spingo/")
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/main/scala/" . "com/")
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/main/" . "scala/")
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/" . "main/")
+ ("/Users/enelson/src/spingo/spingo/promotion-api/" . "build/")
+ ("/Users/enelson/.emacs.d/vendor/" . "ido-other-window/")
+ ("/Users/enelson/.emacs.d/" . "initializers.enabled/")
+ ("/Users/enelson/src/spingo/spingo/billing-api/src/main/scala/com/spingo/billing/" . "db/")
+ ("/Users/enelson/src/spingo/spingo/" . "image-service/")
+ ("/Users/enelson/src/spingo/" . "spingo/")
+ ("/Users/enelson/src/" . "spingo/")
+ ("/Users/" . "enelson/")
+ ("/" . "Users/")
+ ("/Users/enelson/dev/" . "TestMe/")
+ ("/Users/enelson/" . "src/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/enelson/.emacs.d/initializers.enabled/"
+ "/Users/enelson/.emacs.d/vendor/ido-other-window/"
+ "/Users/enelson/src/spingo/spingo/image-service/src/main/scala/com/spingo/image/"
+ "/Users/enelson/"
+ "/Users/enelson/src/spingo/spingo/database-library/src/main/scala/com/spingo/lib/db/schema/"
+ "/Users/enelson/src/spingo/spingo/promotion-api/"
+ "/Users/enelson/src/spingo/spingo/billing-api/"
+ "/Users/enelson/src/spingo/vagrant/salt/states/assets/sql/migrations/"
+ "/Users/enelson/src/spingo/spingo/database-library/"
+ "/Users/enelson/src/spingo/spingo/billing-api/src/main/scala/com/spingo/billing/db/"
+ "/Users/enelson/src/spingo/spingo/sentinel/"
+ "/Users/enelson/src/spingo/spingo/billing-api/src/main/scala/com/spingo/billing/merchant/"
+ "/Users/enelson/src/spingo/modules/op-rabbit/core/"
+ "/Users/enelson/.emacs.d/vendor/scala-plus/"
+ "/Users/enelson/src/spingo/spingo/promotion-api/src/main/scala/com/spingo/leads/"
+ "/Users/enelson/Downloads/"
+ "/Users/enelson/dev/TestMe/"
+ "/Users/enelson/dev/tmp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "ido.el"
+ "ido-other-window.el"
+ "Boot.scala"
+ ".emacs"
+ "Contract.scala"
+ ".ensime"
+ "build.sbt"
+ "2015-03-23-13-33-00_add_new_billing_tables.up.sql"
+ "LedgerQueries.scala"
+ "BillingMethod.scala"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/enelson/.emacs.d/initializers.enabled/" (21871 22705 0 0) "scala.el" "recentf.el" "ido.el" ".ido.el.swp" "../" "./")
+
+ ("/Users/enelson/.emacs.d/vendor/ido-other-window/" (21864 63089 0 0) "ido-other-window.el" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/.emacs.d/" (21871 20463 0 0) "vendor/" "url/" "recentf" "initializers.enabled/" "initializers.el" "initializers.available/" "ido.last" "ensime/" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/Users/enelson/" (21871 21161 0 0) "VirtualBox VMs/" "Virtual Box VMs/" "TUTORIAL" "src/" "Sites/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Google Drive/" "emacs" "e.patch" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bin/" "Applications/" ".zshrc.pre-oh-my-zsh" ".zshrc.d/" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-Eric’s MacBook Pro-5.0.7" ".viminfo" ".vagrant.d/" ".vagrant/" ".Trash/" ".ssh/" ".spark_history" ".scala_history" ".sbt/" ".saves/" ".psql_history" ".pgpass" ".oh-my-zsh/" ".lesshst" ".ivy2/" ".IntelliJIdea14/" ".ideaLibSources/" ".idea-build/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".freemind/" ".emacs.d/" ".emacs" ".DS_Store" ".dropbox/" ".cups/" ".CFUserTextEncoding" ".bash_profile" ".bash_history" ".atom/" ".android/" ".activator/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/image-service/src/main/scala/com/spingo/image/" (21855 36828 0 0) "TaskHandler.scala" "S3Cache.scala" "protocol/" "lib/" "JsonFormats.scala" "imageWithMetadata.scala" "ImageStore.scala" "ImageHelpers.scala" "ImageGateway.scala" "ImageFetcher.scala" "HttpRoot.scala" "Cropper.scala" "controllers/" "consumers/" "Boot.scala" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/image-service/src/main/scala/com/spingo/" (21851 19668 0 0) "image/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/image-service/src/main/scala/com/" (21851 19668 0 0) "spingo/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/image-service/src/main/scala/" (21851 19668 0 0) "com/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/image-service/src/main/" (21855 36828 0 0) "scala/" "resources/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/image-service/src/" (21851 19668 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/enelson/src/spingo/vagrant/salt/states/assets/sql/migrations/" (21868 52596 0 0) "target/" "grant_privileges.afterall.sql" "2015-04-29-00-00-00_rename_ad_tech_to_ad_space.up.sql" "2015-04-23-00-00-00_add_ad_tech_widget_appname_constraint.up.sql" "2015-04-15-00-00-00_drop_featured_impressions.up.sql" "2015-04-14-00-00-00_rename_featured_impressions.up.sql" "2015-04-07-14-30-00_create_history_to_version.up.sql" "2015-04-06-00-00-00_add_featured_impressions.up.sql" "2015-04-06-00-00-00_add_featured_impressions.down.sql" "2015-03-31-12-55-00_convert_cost_to_unbounded_length.up.sql" "2015-03-30-14-33-00_increase_phone_number_length.up.sql" "2015-03-27-17-00-01_add_engine_entity_states_issues.up.sql" "2015-03-27-17-00-00_add_engine_entity_states.up.sql" "2015-03-23-13-33-00_add_new_billing_tables.up.sql" "2015-03-23-13-33-00_add_new_billing_tables.down.sql" "2015-03-18-00-00-00_add_pse_log_types.up.sql" "2015-03-18-00-00-00_add_pse_log_types.down.sql" "2015-03-12-16-34-00_tz_for_point_and_venue_trigger_update.up.sql" "2015-03-10-13-53-00_update_venue_timezone_and_location_trigger.up.sql" "2015-03-10-10-30-00_update_add_venue_timezone.up.sql" "2015-03-06-10-13-00_add_geocode_results_table.up.sql" "2015-03-04-08-30-00_create_timezone_table.up.sql" "2015-03-04-08-30-00_create_timezone_table.down.sql" "2015-03-04-08-30-00_add_add_event_appname_constraint.up.sql" "2015-02-12-10-20-00_update_add_api_token_function.up.sql" "2015-02-06-16-00-00_fix_api_auth.up.sql" "2015-02-06-16-00-00_fix_api_auth.down.sql" "2015-02-06-13-32-00_add_index_to_engine_origin_entity.up.sql" "2015-02-06-11-30-00_add_event_removed_log_type.up.sql" "2015-01-28-00-00-00_add_new_dirty_functions.up.sql" "2015-01-27-00-00-00_add_crowdtorch_to_EngineOrigin.up.sql" "2015-01-27-00-00-00_add_crowdtorch_to_EngineOrigin.down.sql" "2015-01-20-15-45-00_performance_enhance_engine_maintain_dups_origins.up.sql" "2015-01-19-10-01-00_create_engine_origin_blocked_snapshots.up.sql" "2015-01-15-14-90-00_event_json_function_update.up.sql" "2015-01-15-13-00-00_export_event_base_json_function.up.sql" "2015-01-12-00-00-00_add_exportedAt_to_EngineOriginIndex.up.sql" "2015-01-12-00-00-00_add_exportedAt_to_EngineOriginIndex.down.sql" "2015-01-09-18-00-00_create_embed_version_old_widgets.up.sql" "2015-01-09-08-30-00_add_old_widget_appname_constraint.up.sql" "2014-12-17-10-42-00_add_time_fields.up.sql" "2014-12-16-13-52-00_rename_job_to_task.up.sql" "2014-12-16-13-52-00_rename_job_to_task.down.sql" "2014-12-15-00-00-00_modify_equivelent_functions.up.sql" "2014-12-11-00-00-00_add_all_linked_and_reference_functions.up.sql" "2014-12-10-10-45-00_update_foreign_keys_cascade_delete.up.sql" "2014-12-09-00-00-00_add_intelligence_task_and_renames.up.sql" "2014-12-09-00-00-00_add_intelligence_task_and_renames.down.sql" "2014-12-08-16-15-00_update_engine_entity_maintain_origins.up.sql" "2014-12-08-09-34-00_job_status_renames.up.sql" "2014-12-04-10-27-00_epoch_day_num_trigger.up.sql" "2014-12-04-10-27-00_epoch_day_num_trigger.down.sql" "2014-12-04-10-26-00_epoch_day_num_cleanup.cleanup.sql" "2014-12-01-00-00_add_job_with_children_func.up.sql" "2014-11-26-00-00_create_optimized_EngineJob_index.up.sql" "2014-11-25-14-00-00_twitter_handle_constraint.up.sql" "2014-11-25-14-00-00_twitter_handle_constraint.down.sql" "2014-11-25-13-00-00_twitter_clean.up.sql" "2014-11-25-11-30-00_improved_to_url_function.up.sql" "2014-11-25-11-29-00_fix_empty_website.up.sql" "2014-11-19-11-00-00_legacy_mapping.up.sql" "2014-11-19-11-00-00_legacy_mapping.down.sql" "2014-11-17-02-00-00_add_delayed_engine_job_status.up.sql" "2014-11-16-20-00-00_add_venueid_zero.up.sql" "2014-11-16-00-00-00_add_skipped_engine_job_status.up.sql" "2014-11-14-11-00-00_update_changes_event_info_trigger.up.sql" "2014-11-14-11-00-00_update_changes_event_info_trigger.down.sql" "2014-11-14-10-22-00_contributor_defaults.up.sql" "2014-11-14-00-30-00_series_json_function_update.up.sql" "2014-11-14-00-30-00_event_json_function_update.up.sql" "2014-11-14-00-29-59_media_json_function.up.sql" "2014-11-13-00-30-00_venue_json_function_update.up.sql" "2014-11-13-00-30-00_series_json_function_update.up.sql" "2014-11-13-00-30-00_event_json_function_update.up.sql" "2014-11-13-00-30-00_contributor_json_function_update.up.sql" "2014-11-13-00-29-59_image_json_function.up.sql" "2014-11-11-14-46-00_remove_unique_constraint_from_contributor_name.up.sql" "2014-11-11-14-46-00_remove_unique_constraint_from_contributor_name.down.sql" "2014-11-10-09-38-00_set_engine_default_password.up.sql" "2014-11-10-09-21-00_change_engine_legacy_to_engine.up.sql" "2014-11-09-00-30-00_venue_json_function_update.up.sql" "2014-11-09-00-30-00_series_json_function_update.up.sql" "2014-11-09-00-30-00_event_json_function_update.up.sql" "2014-11-09-00-30-00_contributor_json_function_update.up.sql" "2014-11-09-00-29-59_media_json_function.up.sql" "2014-11-08-23-39-00_new_engine_schema.up.sql" "2014-11-08-23-39-00_new_engine_schema.down.sql" "2014-11-08-22-00-00_add-legacy-clobber-data.up.sql" "2014-11-07-13-00_drop_old_engine_schema.up.sql" "2014-11-04-12-39-00_allow_premier_event_cost_greater_than_100.up.sql" "2014-10-27-12-50-00_engine_dirty_series_tracking.up.sql" "2014-10-27-12-50-00_engine_dirty_series_tracking.down.sql" "2014-10-24-15-30-00_engine_import_bandsintown.up.sql" "2014-10-24-15-30-00_engine_import_bandsintown.down.sql" "2014-10-22-16-00-00_venue_json_function_update.up.sql" "2014-10-22-16-00-00_series_json_function_update.up.sql" "2014-10-22-16-00-00_event_json_function_update.up.sql" "2014-10-22-16-00-00_contributor_json_function_update.up.sql" "2014-10-22-12-51-00_fix_modified_trigger.up.sql" "2014-10-22-12-50-00_engine_legacy_user.up.sql" "2014-10-22-12-50-00_engine_dirty_venue_tracking.up.sql" "2014-10-22-12-50-00_engine_dirty_venue_tracking.down.sql" "2014-10-22-12-50-00_engine_dirty_event_tracking.up.sql" "2014-10-22-12-50-00_engine_dirty_event_tracking.down.sql" "2014-10-22-12-50-00_engine_dirty_contributor_tracking.up.sql" "2014-10-22-12-50-00_engine_dirty_contributor_tracking.down.sql" "2014-10-14-15-25-00_wildcard_spingo_validorigin.up.sql" "2014-10-09-16-00-00_create_embed_options.up.sql" "2014-10-09-16-00-00_create_embed_options.down.sql" "2014-10-09-11-30-00_event_tag_modified_at.up.sql" "2014-10-09-11-12-00_improved_modified_trigger.up.sql" "2014-10-08-16-10-00_trending_index.up.sql" "2014-10-08-16-10-00_trending_index.down.sql" "2014-10-08-11-45-00_access_code_unique.up.sql" "2014-10-08-11-45-00_access_code_unique.down.sql" "2014-09-30-10-13-00_remove_entity_file_constraint.up.sql" "2014-09-29-13-32-00_venue_json_function.up.sql" "2014-09-29-13-32-00_venue_json_function.down.sql" "2014-09-29-13-32-00_series_json_function.up.sql" "2014-09-29-13-32-00_series_json_function.down.sql" "2014-09-29-13-32-00_event_json_function.up.sql" "2014-09-29-13-32-00_event_json_function.down.sql" "2014-09-29-13-32-00_contributor_json_function.up.sql" "2014-09-29-13-32-00_contributor_json_function.down.sql" "2014-09-29-13-31-00_engine_export_table.up.sql" "2014-09-29-13-30-00_engine_operation.up.sql" "2014-09-29-13-30-00_engine_operation.down.sql" "2014-09-24-13-04-00_drop_venue_yelp_column_if_exists.up.sql" "2014-09-24-12-58-00_featured_transaction_section_foreign_key.up.sql" "2014-09-15-08-22-00_update_zipcodes.up.sql" "2014-09-09-15-43-00_calendar_no_premier_flag.up.sql" "2014-09-09-15-43-00_calendar_no_premier_flag.down.sql" "2014-09-04-11-37-00_selective_event_info_field_notification.up.sql" "2014-09-04-07-39-00_fix_change_publishing_function.up.sql" "2014-09-04-07-03-00_add_change_watcher_to_eventinfo_and_featured.up.sql" "2014-08-29-17-41-00_larger_promo_code.up.sql" "2014-08-28-13-10-00_fix_cost_descriptions.up.sql" "2014-08-27-10-11-00_add_engine_ui_appname_constraint.up.sql" "2014-08-27-09-07-00_account_timezone.up.sql" "2014-08-27-09-07-00_account_timezone.down.sql" "2014-08-25-07-44-00_inside_sales_leads_updated_at_to_modified_at.up.sql" "2014-08-25-01-28-00_inside_sales_leads.up.sql" "2014-08-25-01-28-00_inside_sales_leads.down.sql" "2014-08-12-08-46-00_venue_timezone.up.sql" "2014-08-12-08-46-00_venue_timezone.down.sql" "2014-08-06-01-13-00_add_jsonsafe_migration.up.sql" "2014-08-06-01-13-00_add_jsonsafe_migration.down.sql" "2014-08-05-11-40-00_venue_and_contributor_emails.up.sql" "2014-08-05-11-40-00_venue_and_contributor_emails.down.sql" "2014-08-01-10-59-00_null-if-empty.up.sql" "2014-08-01-10-29-00_add_tsvsafe_migration.up.sql" "2014-08-01-10-29-00_add_tsvsafe_migration.down.sql" "2014-07-31-11-19-00_create_embed_version_list_widgets.up.sql" "2014-07-17-16-55-00_fix_url_check.up.sql" "2014-07-01-15-00-00_extra_fixup.up.sql" "2014-07-01-14-00-00_extra_url_check.up.sql" "2014-06-27-13-39-00_update_create_embed_on_calendar_insert.up.sql" "2014-06-24-14-03-00_event_pricing.up.sql" "2014-06-24-14-03-00_event_pricing.down.sql" "2014-06-24-11-30-00_event_attendance.up.sql" "2014-06-24-11-30-00_event_attendance.down.sql" "2014-06-16-09-59-00_expand_embed_version_constraint.up.sql" "2014-05-27-01-07-00_create_account_auth.up.sql" "2014-05-27-01-07-00_create_account_auth.down.sql" "2014-05-19-15-08-00_image_service_migration.up.sql" "2014-05-19-15-08-00_image_service_migration.down.sql" "2014-05-15-17-34-00_change_promo_code_created_at_and_expires_at_to_not_null.up.sql" "2014-05-15-16-00-00_add-multiuse-promocode.up.sql" "2014-05-06-15-00-00_kill_santa.up.sql" "2014-05-02-16-41-00_add_sessionid_to_transaction.up.sql" "2014-05-02-16-41-00_add_sessionid_to_transaction.down.sql" "2014-04-23-16-22-00_create_embed_on_calendar_insert.up.sql" "2014-04-23-09-43-00_remove_junk_cities_from_area_by_city_state.up.sql" "2014-04-21-16-24-00_create_featured_inventory.up.sql" "2014-04-21-16-24-00_create_featured_inventory.down.sql" "2014-04-15-11-05-00_fix_eventcontact_constraint.up.sql" "2014-04-15-11-05-00_fix_eventcontact_constraint.down.sql" "2014-04-02-15-50-00_set_default_theme_value_and_mark_for_deprecation.up.sql" "2014-03-28-18-02-00_update_event_urls.up.sql" "2014-03-28-18-01-00_update_all_but_event_urls.up.sql" "2014-03-28-18-00-00_add_url_type.up.sql" "2014-03-27-21-15-00_add_change_watcher_to_api_authorization.down.sql" "2014-03-27-21-14-00_add_change_watcher_to_api_authorization.up.sql" "2014-03-27-16-05-00_add_popular_cities.up.sql" "2014-03-27-11-46-00_add_user_location_to_calendar.up.sql" "2014-03-27-11-46-00_add_user_location_to_calendar.down.sql" "2014-03-25-15-33-00_add_change_watcher_to_calendar_and_embed_version.up.sql" "2014-03-25-15-32-00_add_change_publishing_function.up.sql" "2014-03-24-09-22-00_add_calendar_created_at.up.sql" "2014-03-17-01-54-00_create_embed_version.up.sql" "2014-03-17-01-54-00_create_embed_version.down.sql" "2014-03-12-00-25-00_force_zips_to_5_char.up.sql" "2014-03-11-23-00-00_re_add_county_and_statename_to_area_by_zipcode.up.sql" "2014-03-07-10-15-00_fix_zipcode.up.sql" "2014-03-06-09-00-00_fix_featured_with_date_timezone_offset.up.sql" "2014-03-03-17-25-00_add_country_to_area_by_zipcode.up.sql" "2014-02-28-16-00-00_add_featured_direct_link.up.sql" "2014-02-28-16-00-00_add_featured_direct_link.down.sql" "2014-02-26-17-50-00_add_state_name_to_area_by_zipcode.up.sql" "2014-02-26-17-48-00_add_calendar_view.up.sql" "2014-02-26-17-48-00_add_calendar_view.down.sql" "2014-02-25-08-55-00_add_chosen_decision_id.up.sql" "2014-02-25-08-55-00_add_chosen_decision_id.down.sql" "2014-02-24-12-15-00_add_duplicate_decision.up.sql" "2014-02-24-12-15-00_add_duplicate_decision.down.sql" "2014-02-20-15-00-00_extra_to_json.up.sql" "2014-02-20-11-44-00_add_modified_at_to_event.up.sql" "2014-02-20-11-44-00_add_modified_at_to_event.down.sql" "2014-02-20-11-32-00_add_modified_at_to_contributor_venue.up.sql" "2014-02-20-11-32-00_add_modified_at_to_contributor_venue.down.sql" "2014-02-14-01-45-00_repair_associations.up.sql" "2014-02-13-15-01-00_add_transaction_section_featured_join_table.up.sql" "2014-02-13-15-01-00_add_transaction_section_featured_join_table.down.sql" "2014-02-07-12-00-00_q_reporting_access.up.sql" "2014-02-07-12-00-00_q_reporting_access.down.sql" "2014-01-29-09-00-00_bubblegum_theme.up.sql" "2014-01-29-09-00-00_bubblegum_theme.down.sql" "2014-01-16-17-00-00_repair_calendar_homepageurl.up.sql" "2014-01-15-16-00-00_update_theme_info.up.sql" "2014-01-15-14-00-00_calendar_website_trigger.up.sql" "2014-01-14-18-50-00_rename_coming_soon_link_to_homepage_link.up.sql" "2014-01-14-18-50-00_rename_coming_soon_link_to_homepage_link.down.sql" "2014-01-14-16-02-00_create_materialized_area_by_zipcode.up.sql" "2014-01-14-16-02-00_create_materialized_area_by_city_state.up.sql" "2014-01-08-15-00-00_venue_title_index.up.sql" "2014-01-08-13-35-00_add_event_title_fulltext_index.up.sql" "2014-01-08-13-11-00_fix_empty_event_titles.up.sql" "2014-01-08-13-01-00_venue_contributor_website_sanitation.up.sql" "2014-01-07-21-14-53_eventinfo_website_constraint.up.sql" "2014-01-07-21-14-42_eventinfo_website_trigger.up.sql" "2014-01-07-13-18-00_add_api_tokens_via_trigger.up.sql" "2014-01-07-13-18-00_add_api_tokens_via_trigger.down.sql" "2014-01-02-16-00-00_fix_null_columns.up.sql" "2013-12-19-12-00-00_remove_AccountCalendar_isAdmin.up.sql" "2013-12-18-16-00-00_fix_contributor_websites.up.sql" "2013-12-16-13-00-00_add_areazipcode_location.up.sql" "2013-12-06-16-20-00_add_legal_acceptance.up.sql" "2013-12-06-16-20-00_add_legal_acceptance.down.sql" "2013-12-06-14-20-00_add_feature_pacing_function.up.sql" "2013-12-06-13-30-00_alter_dailyspend_type.up.sql" "2013-12-06-10-20-00_add_report_role.up.sql" "2013-12-05-15-00-00_area_time_zones.up.sql" "2013-12-04-16-00-00_add_venue_description.up.sql" "2013-12-04-16-00-00_add_venue_description.down.sql" "2013-12-03-14-00-00_add_section_ordering.up.sql" "2013-12-03-14-00-00_add_section_ordering.down.sql" "2013-11-27-12-31-00_flatten_event_parents.up.sql" "2013-11-27-12-30-00_editorials.up.sql" "2013-11-27-12-30-00_editorials.down.sql" "2013-11-20-11-46-00_remove_featured_timezone_default.up.sql" "2013-11-18-18-30-00_add_featured_dates_view.up.sql" "2013-11-18-14-00-00_calendar_id_is_not_optional.up.sql" "2013-11-15-16-54-00_add_agent_id_to_transactions.up.sql" "2013-11-15-16-54-00_add_agent_id_to_transactions.down.sql" "2013-11-14-10-33-00_themes.up.sql" "2013-11-14-10-33-00_themes.down.sql" "2013-11-12-02-44-00_add_assigned_revenue_to_transaction_sections.up.sql" "2013-11-12-02-44-00_add_assigned_revenue_to_transaction_sections.down.sql" "2013-11-10-18-44-00_days_from_interval_with_tz.up.sql" "2013-11-10-18-44-00_days_from_interval_with_tz.down.sql" "2013-11-09-18-44-00_fix_featured_timestamps.up.sql" "2013-11-09-18-44-00_fix_featured_timestamps.down.sql" "2013-11-09-18-30-00_add_timezone_to_featured.up.sql" "2013-11-09-18-30-00_add_timezone_to_featured.down.sql" "2013-11-09-14-22-00_set_timestamp_to_timestamptz.up.sql" "2013-11-09-14-22-00_set_timestamp_to_timestamptz.down.sql" "2013-10-30-15-00-00_public_private_authtokens.up.sql" "2013-10-25-13-49-00_event_venue_is_not_null.up.sql" "2013-10-22-11-31-00_event_ownership_log.up.sql" "2013-10-22-11-30-00_event_ownership.up.sql" "2013-10-22-11-30-00_event_ownership.down.sql" "2013-10-22-09-15-00_big_city_theme.up.sql" "2013-10-22-09-15-00_big_city_theme.down.sql" "2013-10-18-16-00-00_nofault_permission.up.sql" "2013-10-18-16-00-00_nofault_permission.down.sql" "2013-10-18-15-00-00_orderSections.up.sql" "2013-10-18-15-00-00_orderSections.down.sql" "2013-10-14-16-00-00_nofault_logtype.up.sql" "2013-10-14-15-00-00_website_text.up.sql" "2013-10-14-15-00-00_website_text.down.sql" "2013-09-15-13-42-00_lakers_mint_themes.up.sql" "2013-09-15-13-42-00_lakers_mint_themes.down.sql" "2013-09-12-02-13-00_incopy_indesign.up.sql" "2013-09-12-02-13-00_incopy_indesign.down.sql" "2013-09-09-11-47-00_section_fkey_indices.up.sql" "2013-09-09-11-47-00_section_fkey_indices.down.sql" "2013-09-09-11-37-00_fulltext_indices.up.sql" "2013-09-09-11-37-00_fulltext_indices.down.sql" "2013-09-09-11-35-00_event_tag_fkey_index.up.sql" "2013-09-09-11-35-00_event_tag_fkey_index.down.sql" "2013-08-28-09-00-00_featured_date_index.up.sql" "2013-08-28-09-00-00_featured_date_index.down.sql" "2013-08-28-09-00-00_event_ranking_index.up.sql" "2013-08-28-09-00-00_event_ranking_index.down.sql" "2013-08-26-17-25-00_add_approved_eventinfo_index.up.sql" "2013-08-26-17-25-00_add_approved_eventinfo_index.down.sql" "2013-08-21-05-60-00_transaction_columns.up.sql" "2013-08-20-07-20-00_extra_value_text.up.sql" "2013-08-15-14-30-00_add_api_keys.up.sql" "2013-08-15-13-00-00_add_eventinfo_index.up.sql" "2013-08-09-08-22-00_accountlog_log_date_index.up.sql" "2013-08-02-15-25-00_rename_extra_image_name_to_extra_url.up.sql" "2013-08-02-15-25-00_rename_extra_image_name_to_extra_url.down.sql" "2013-07-30-13-31-00_dayFromInterval.up.sql" "2013-07-30-13-18-00_fix_missing_recurring_images.up.sql" "2013-07-29-15-27-00_add_contributor_type_seq.up.sql" "2013-07-25-14-14-00_api_auth.up.sql" "2013-07-25-14-14-00_api_auth.down.sql" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/image-service/" (21871 6570 0 0) "uriGenerator/" "src/" "root/" "README.md" "project/" "Makefile" "image-service.md.html" "cropCalc/" ".gitignore" ".git/" ".dir-locals.el" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/billing-api/src/main/scala/com/spingo/billing/merchant/" (21870 13760 0 0) "SimpleHTTPSWrapper.scala" "PaymentProcessor.scala" "MockMerchant.scala" "Merchant.scala" "FirstData.scala" "Enrichers.scala" "BillingMethod.scala" "#BillingMethod.scala#" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/com/spingo/lib/db/schema/" (21868 50878 0 0) "VenueExtra.scala" "VenueEditorial.scala" "Venue.scala" "TransactionSection.scala" "Transaction.scala" "TimeZoneByLocation.scala" "Theme.scala" "Tag.scala" "SectionTag.scala" "Section.scala" "PromotionImpression.scala" "Promotion.scala" "PromoCode.scala" "package.scala" "LegalAcceptance.scala" "LedgerItem.scala" "Ledger.scala" "GeoCodeLookupResult.scala" "FeaturedView.scala" "FeaturedTransactionSection.scala" "Featured.scala" "Extra.scala" "EventView.scala" "EventTag.scala" "EventInfo.scala" "EventExtra.scala" "EventEditorial.scala" "EventContributor.scala" "EmbedVersion.scala" "ContributorType.scala" "ContributorExtra.scala" "ContributorEditorial.scala" "Contributor.scala" "Contract.scala" "Contact.scala" "Campaign.scala" "CalendarBlockTag.scala" "Calendar.scala" "BillingState.scala" "BillingMethod.scala" "BillingHold.scala" "AreaPostalcode.scala" "ApiAuthentication.scala" "AccountLog.scala" "AccountCalendarPermissions.scala" "Account.scala" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/com/spingo/lib/db/" (21834 41346 0 0) "schema/" "Queryable.scala" "PgInArraySupport.scala" "PgConnectionPool.scala" "mappers/" "extensions/" "ExtendedPostgresDriver.scala" "Common.scala" "AsyncDb.scala" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/com/spingo/lib/" (21814 50198 0 0) "TimeZoneHelper.scala" "JodaEnrichers.scala" "db/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/com/spingo/" (21814 50198 0 0) "lib/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/com/" (21814 50198 0 0) "spingo/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/scala/" (21814 50198 0 0) "com/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/database-library/src/main/" (21852 60338 0 0) "scala-2.11/" "scala/" "resources/" "java/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/database-library/src/" (21852 60338 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/billing-api/src/main/scala/com/spingo/billing/actors/" (21868 58477 0 0) "Transactor.scala" "LedgerActor.scala" "ContractActor.scala" "Biller.scala" "#Transactor.scala#" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/promotion-api/" (21868 48331 0 0) "tmp/" "target/" "src/" "release_id" "README.md" "promotionapi-assembly-current.jar" "promotionapi-assembly-527d9508c5d7208ee7a3c7e7f82896cfee15ef10.jar" "project/" "config/" "build.sbt" "build/" "bin/" "assembly.sbt" ".idea/" ".gitignore" ".git/" ".ensime_cache/" ".ensime" ".dir-locals.el" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/billing-api/src/main/scala/com/spingo/billing/" (21868 58477 0 0) "serialization/" "protocol/" "merchant/" "HttpActor.scala" "helpers/" "db/" "consumers/" "Boot.scala" "actors/" "#Boot.scala#" "../" "./")
+
+ ("/Users/enelson/src/spingo/vagrant/salt/states/assets/sql/" (21845 9849 0 0) "spingo_dev_empty.sql" "migrator/" "migrations/" "download_truncated.sh" ".gitignore" ".git" "../" "./")
+
+ ("/Users/enelson/src/spingo/vagrant/salt/states/assets/" (21817 10760 0 0) "ssh/" "sql/" "sphinx/" "secrets/" "rsyslog/" "root-gnupg/" "redis/" "postgres/" "pkg/" "php-fpm/" "php/" "nginx/" "jetty/" "elasticsearch/" "beanstalk/" "../" "./")
+
+ ("/Users/enelson/src/spingo/vagrant/salt/states/" (21843 46529 0 0) "up.sls" "top.sls" "shutdown.sls" "setup/" "populate/" "maintenance.sls" "maintenance/" "deploy.sls" "deploy/" "copy.sls" "cleanup.sls" "build.sls" "build/" "assets/" "_states/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/src/spingo/vagrant/salt/" (21817 12072 0 0) "vault/" "states/" "secrets/" "README.md.html" "reactor/" "pillar/" "maintenance.txt" "config/" "bin/" ".gitmodules" ".gitignore" ".git" ".dir-locals.el" "../" "./")
+
+ ("/Users/enelson/src/spingo/vagrant/" (21831 37128 0 0) "Vagrantfile" "salt/" "README.md.html" "config/" ".vagrant/" ".gitmodules" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/database-library/" (21868 50027 0 0) "target/" "src/" "README.md.html" "project/" "build.sbt" "bin/" ".idea/" ".gitignore" ".git/" ".ensime_cache/" ".ensime" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/billing-api/" (21868 31297 0 0) "target/" "src/" "README" "project/" "docs/" "build.sbt" "billing-api-schema/" ".idea/" ".gitignore" ".git/" ".ensime_cache/" ".ensime" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/billing-api/src/main/scala/com/spingo/billing/db/" (21853 2119 0 0) "TransactionQueries.scala" "Queryable.scala" "PromotionQueries.scala" "LedgerQueries.scala" "ContractQueries.scala" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/promotion-api/build/" (21826 42387 0 0) "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/sentinel/" (21855 41564 0 0) "target/" "src/" "README.md" "project/" "build.sbt" "assembly.sbt" ".gitignore" ".git/" ".ensime" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/" (21855 41392 0 0) "widgets/" "website/" "sentinel/" "README.md.html" "q/" "promotion-ui/" "promotion-api/" "mobile/" "manager-ui/" "manager-api/" "logging-api/" "image-service/" "engine/" "database-library/" "config/" "cms/" "calendar-api/" "calendar/" "bin/" "billing-api/" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/main/scala/com/spingo/promotion/" (21854 27685 0 0) "views/" "Transactor.scala" "protocol/" "PlayJsonFormats.scala" "helpers/" "db/" "controllers/" "Configuration.scala" "Boot.scala" "Appraiser.scala" "actors/" "../" "./")
+
+ ("/Users/enelson/Downloads/" (21855 38858 0 0) "states.txt" "spingo_dev_empty.sql.bz2" "spingo_dev.sql.gz" "QLStephen.qlgenerator.1.4.2.zip" "plantuml.8023.jar" "LicenseCertificate-A151319.pdf" "inkytonik-mkscaladocset-4db14a8f5bb0.zip" "IMG_2564.JPG" "IMG_2538.JPG" "Emacs-24.5-1-universal.dmg" "ebook-UndisturbedREST_v1.pdf" "coursera/" "Boy Scout Advancements.xls" "Billing%2520API.json" "Apache_OpenOffice_4.1.1_MacOS_x86-64_install_en-US.dmg" ".~lock.Boy Scout Advancements.xls#" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/src/spingo/modules/op-rabbit/core/" (21855 29830 0 0) "src/" "root-doc.txt" "build.sbt" "../" "./")
+
+ ("/Users/enelson/src/spingo/modules/op-rabbit/" (21855 29830 0 0) "README.md" "project/" "Makefile" "LICENSE" "core/" "addons/" ".gitignore" ".git" "../" "./")
+
+ ("/Users/enelson/src/spingo/modules/" (21843 54536 0 0) "utility-belt/" "spray-json-schema/" "spray-helpers/" "spray-authentication/" "scoped-fixtures/" "s3client/" "play-json-formats/" "op-rabbit/" "money/" "media-enrichment/" "logging-client/" "json-schema-generator/" "json-schema/" "json-formats/" "engine-schemas/" "engine-protocol/" "engine-ingestion-helpers/" "dns-cache-buster/" "database-test/" "database-library/" "current_versions.sh" "checkout_latest.sh" "actor-database/" ".gitmodules" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/dev/TestMe/" (21853 21401 0 0) "test/" "target/" "replay_pid17861.log" "README" "public/" "project/" "logs/" "LICENSE" "hs_err_pid17861.log" "conf/" "build.sbt" "app/" "activator-launch-1.3.2.jar" "activator" ".idea/" ".gitignore" ".git/" ".ensime_cache/" ".ensime" "#build.sbt#" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/main/scala/com/spingo/leads/" (21852 44605 0 0) "views/" "PseLeadHandler.scala" "protocol/" "lib/" "InsideSalesApiClient.scala" "consumers/" "Config.scala" "../" "./")
+
+ ("/Users/enelson/.emacs.d/vendor/scala-plus/" (21852 43459 0 0) "scala-plus.el" "README.md" ".git/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/main/scala/com/spingo/" (21825 11220 0 0) "SchemaWriter.scala" "promotion/" "lib/" "leads/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/main/scala/com/" (21825 11220 0 0) "spingo/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/main/scala/" (21849 63643 0 0) "TestWS.sc" "docs/" "com/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/main/" (21851 44737 0 0) "scala-2.11/" "scala/" "resources/" "java/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/promotion-api/src/" (21849 62071 0 0) "test/" "main/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/promotion-api/config/" (21825 642 0 0) "src/" "../" "./")
+
+ ("/Users/enelson/.emacs.d/vendor/" (21852 43543 0 0) "scala-plus/" "ido-other-window/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/billing-api/src/" (21841 5429 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/billing-api/src/main/" (21851 40749 0 0) "webapp/" "sql/" "scala-2.11/" "scala/" "resources/" "java/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/billing-api/src/main/scala/" (21827 36454 0 0) "com/" ".DS_Store" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/billing-api/src/main/scala/com/" (21827 36136 0 0) "spingo/" "../" "./")
+
+ ("/Users/enelson/src/spingo/spingo/billing-api/src/main/scala/com/spingo/" (21827 36136 0 0) "billing/" "../" "./")
+
+ ("/Users/enelson/dev/TestMe/app/" (21825 530 0 0) "views/" "Global.scala" "controllers/" "Boot.scala" "assets/" "actors/" "../" "./")
+
+ ("/Users/enelson/dev/TestMe/app/actors/" (21824 3072 0 0) "StreamActor.scala" "RabbitConsumerActor.scala" "../" "./")
+
+ ("/Users/enelson/src/spingo/" (21846 6746 0 0) "vagrant/" "spingo/" "modules/" "../" "./")
+
+ ("/Users/enelson/src/" (21817 7629 0 0) "spingo/" ".DS_Store" "../" "./")
+
+ ("/Users/" (21846 12360 0 0) "Shared/" "enelson/" ".localized" "../" "./")
+
+ ("/Users/enelson/dev/tmp/src/" (21850 46268 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/src/main/" (21850 46268 0 0) "scala-2.11/" "scala/" "java/" "../" "./")
+
+ ("/Users/enelson/dev/tmp/src/main/scala/" (21851 24556 0 0) "RenameThing.scala" "Main.scala" "../" "./")
+
+ ("/Users/enelson/dev/tmp/" (21851 23091 0 0) "target/" "src/" "project/" "build.sbt" ".ensime_cache/" ".ensime" "../" "./")
+
+ ("/Users/enelson/dev/" (21850 43584 0 0) "tmp/" "TestSpray/" "TestMe/" "test2/" "test-center.git/" "test/" "spray/" "spark/" "search_service/" "Scalaz.docset.zip" "Scalaz.docset/" "scalaz/" "nailgun/" "lender/" "iTerm2-Color-Schemes/" "inkytonik-mkscaladocset-4db14a8f5bb0/" "common/" "akka-streams.docset.zip" "akka-streams.docset/" "akka-dddd-cqrs/" "akka/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
